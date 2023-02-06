@@ -1,2 +1,2 @@
 run-tests:
-	poetry run pytest
+	poetry run pytest --cov
